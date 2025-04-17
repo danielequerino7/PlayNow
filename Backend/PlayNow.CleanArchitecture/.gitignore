@@ -1,0 +1,71 @@
+## Ignore arquivos de build
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+## Ignore pacotes
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+*.psmdcp
+
+## Ignore arquivos temporários do Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+*.userosscache
+*.sln.ide
+
+## Ignore configurações locais
+launchSettings.json
+
+## Logs
+*.log
+
+## Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+## Ignore arquivos de publicação
+publish/
+*.dbmdl
+
+## Configurações do Rider/JetBrains (se usar)
+.idea/
+*.sln.iml
+
+## Testes e coverage
+TestResults/
+*.coverage
+*.coveragexml
+*.codecoverage
+*.trx
+*.log
+coverage/
+
+## Outras pastas geradas
+Generated_Code/
+
+## Secrets
+secrets.json
+
+## Ignore arquivos de cache
+*.pidb
+*.sdf
+*.sqlite
+*.cache
+*.bak
+
+## Docker
+**/docker-compose.override.yml
+**/docker-compose*.yml
+.docker/
+
+## Arquivos para ambientes
+.env
+.env.*
+
