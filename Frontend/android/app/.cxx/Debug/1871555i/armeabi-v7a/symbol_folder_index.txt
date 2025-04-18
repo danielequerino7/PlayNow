@@ -1,0 +1,1 @@
+/home/estelitabrito/Documents/workspace/PlayNow/Frontend/build/app/intermediates/cxx/Debug/1871555i/obj/armeabi-v7a

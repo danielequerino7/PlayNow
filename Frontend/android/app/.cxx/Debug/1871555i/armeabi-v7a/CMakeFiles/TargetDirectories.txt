@@ -1,0 +1,2 @@
+/home/estelitabrito/Documents/workspace/PlayNow/Frontend/android/app/.cxx/Debug/1871555i/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/estelitabrito/Documents/workspace/PlayNow/Frontend/android/app/.cxx/Debug/1871555i/armeabi-v7a/CMakeFiles/rebuild_cache.dir
